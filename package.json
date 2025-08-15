@@ -1,6 +1,6 @@
 {
   "name": "rheemcooling",
-  "homepage": "https://Thanhbao1080.github.io/rheemcooling",
+  "homepage": "https://giabao15092000.github.io/rheemcooling",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -26,7 +26,8 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "postbuild": "copyfiles -f build/index.html build/404.html"
+    "postbuild": "cp -f build/index.html build/404.html"
+
   },
   "eslintConfig": {
     "extends": [
