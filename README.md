@@ -20,7 +20,7 @@
 
 **📄 eProject documentation:** *(unavailable now)*
 
-**🌐 eProject published:** [https://phambao159.github.io/rheemcooling](https://phambao159.github.io/rheemcooling)
+**🌐 eProject published:** https://thanhbao1080.github.io/rheemcooling/
 
 ---
 
